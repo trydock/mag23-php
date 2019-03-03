@@ -19,7 +19,6 @@ Installed PHP Modules.
 - php7-mysqli 
 - php7-xml 
 - php7-soap 
-- php7-libxml 
 - php7-xsl 
 - php7-zip 
 - php7-json 
@@ -28,3 +27,4 @@ Installed PHP Modules.
 - php7-pecl-lzf 
 - php7-pecl-imagick 
 - php7-pecl-mcrypt
+- php7-phar
