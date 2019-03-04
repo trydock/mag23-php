@@ -28,3 +28,5 @@ Installed PHP Modules.
 - php7-pecl-imagick 
 - php7-pecl-mcrypt
 - php7-phar
+- php7-xmlwriter
+- php7-simplexml
